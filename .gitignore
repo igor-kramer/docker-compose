@@ -130,4 +130,6 @@ dmypy.json
 
 notebooks/.ipynb_checkpoints
 notebooks/*.ipynb
+notebooks/.Trash-0
 minio/data
+postgres/data
